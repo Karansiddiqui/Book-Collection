@@ -1,4 +1,5 @@
-export const PORT = 5555;
+import "dotenv/config";
 
-export const mongoDBURL = 
-"mongodb+srv://karan:karan@book-store.ovdae1q.mongodb.net/book-collection?retryWrites=true&w=majority&appName=Book-Store"
+export const PORT = process.env.PORT || 5555;
+
+export const mongoDBURL = process.env.mongoDBURL;
