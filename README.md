@@ -12,7 +12,7 @@ The Book Store Project is a straightforward implementation of CRUD (Create, Read
 - **CORS Policy Configuration:**  Ensures secure cross-origin communication between frontend and backend.
 - **MongoDB Integration:** Utilizes MongoDB as the database for storing and handling book records.
 - **Frontend CRUD Functionality:**  Provides a user-friendly interface to perform CRUD operations on books.
-- **React Router:**Implements client-side routing for seamless navigation within the frontend application.
+- **React Router:** Implements client-side routing for seamless navigation within the frontend application.
 
 ## Screenshots
 
