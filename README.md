@@ -16,12 +16,12 @@ The Book Store Project is a straightforward implementation of CRUD (Create, Read
 
 ## Screenshots
 
-![Home](image.png)
-![Card View](image-1.png)
-![Create Book](image-2.png)
-![Show Book](image-3.png)
-![Edit Book](image-4.png)
-![Delete Book](image-5.png)
+![Home](screenshot/image.png)
+![Card View](screenshot/image-1.png)
+![Create Book](screenshot/image-2.png)
+![Show Book](screenshot/image-3.png)
+![Edit Book](screenshot/image-4.png)
+![Delete Book](screenshot/image-5.png)
 
 
 ## Technologies Used
